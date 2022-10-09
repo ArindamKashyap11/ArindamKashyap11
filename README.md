@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArindamKashyap11
 - 👀 I’m interested in Learning new things , specifically about computers i.e Anything that ultimately connects with computers
-- 🌱 I’m currently pursuing MCA from Tezpur University
+- 🌱 I have completed MCA from Tezpur University
 - 💞️ I’m looking to collaborate on projects which are helpful for the human race and challenging
 - 📫  linkedin.com/in/arindamkashyap
 
