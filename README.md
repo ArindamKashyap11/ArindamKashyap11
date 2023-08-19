@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm Arindam Kashyap, a passionate cybersecurity enthusiast from Bangalore. I'm dedicated to the exciting world of hacking, and I love indulging in various interests beyond technology.
+Hello there! 👋 I'm Arindam Kashyap, a passionate cybersecurity enthusiast from Assam. I'm dedicated to the exciting world of hacking, and I love indulging in various interests beyond technology.
 
 ![Header](images/header.gif)
 
