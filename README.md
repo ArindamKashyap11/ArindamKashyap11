@@ -6,17 +6,7 @@ Hello there! 👋 I'm Arindam Kashyap, a passionate cybersecurity enthusiast fro
 
 ## 💼 Professional Background
 
-I'm constantly exploring the realm of hacking, with a focus on Cybersecurity. My interests lie in web pentesting, API pentesting, and mobile pentesting. Currently, I'm diving deep into tools like Kali Linux and Burp Suite, mastering the art of ethical hacking.
-
-## 🌱 What I'm Learning
-
-I'm currently sharpening my skills in:
-
-- Exploiting vulnerabilities
-- Analyzing network traffic
-- Identifying security weaknesses
-
-I'm a firm believer in continuous learning to stay ahead in the ever-evolving field of cybersecurity.
+I'm constantly exploring the realm of hacking, with a focus on Cybersecurity. My interests lie in web pentesting, API pentesting, and mobile pentesting. I'm a firm believer in continuous learning to stay ahead in the ever-evolving field of cybersecurity.
 
 ## ✨ Other Interests
 
